@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm <b>isaacyan17</b>, 
 
 <!--
 **isaacyan17/isaacyan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<ul>
+<li>
+     <b>🔭 Currently working on:</b>  <b><i>Android</i></b> (Java), <b><i>Cross-platform-App</b></i> (Flutter).
+   </li>
+  <li>
+     <b>🤔 Exploring: </b> Design patterns and Cross-platform shcema
+   </li>
+   <li>
+      <b>⚗️ Experimenting on: </b> Improving the efficiency of my code.
+   </li>
+  
+</ul>
+<img src="https://github-readme-stats.vercel.app/api?username=isaacyan17&show_icons=true&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacyan17&layout=compact" />
+<img align='right' src="https://komarev.com/ghpvc/?username=isaacyan17" alt="isaacyan17" />
+
+
+
