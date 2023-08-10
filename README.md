@@ -20,7 +20,7 @@ Here are some ideas to get you started:
      <b>🔭 Currently working on:</b>  <b><i>Android</i></b> (Java), <b><i>Cross-platform-App</b></i> (Flutter).
    </li>
   <li>
-     <b>🤔 Exploring: </b> Design patterns and Cross-platform shcema
+     <b>🤔 Exploring: </b> Infra with Android/Flutter ，little interest in backend server and JavaScript.
    </li>
    <li>
       <b>⚗️ Experimenting on: </b> Improving the efficiency of my code.
