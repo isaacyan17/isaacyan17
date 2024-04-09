@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 </ul>
 <img src="https://github-readme-stats.vercel.app/api?username=isaacyan17&show_icons=true&include_all_commits=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacyan17&layout=compact" />
-<img align='right' src="https://komarev.com/ghpvc/?username=isaacyan17" alt="isaacyan17" />
+<!-- <img align='right' src="https://komarev.com/ghpvc/?username=isaacyan17" alt="isaacyan17" /> -->
 
+#### Skills and Tools
+![skills](https://skillicons.dev/icons?i=html,css,js,vue,react,vercel,nextjs,java,spring,kotlin,dart,flutter,docker,git,linux,nginx,mysql,redis,sqlite,visualstudio,vscode,eclipse,md,bash,jenkins,sentry)
 
 
